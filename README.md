@@ -1,3 +1,10 @@
+First you'll have to create a project in firebase web. 
+
+1. Go to https://firebase.google.com/
+2. Start
+3. Create project (or choose one that's already created)
+4. Start working on your react app 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
